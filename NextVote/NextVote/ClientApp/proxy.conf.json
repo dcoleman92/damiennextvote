@@ -1,0 +1,8 @@
+{
+  "/inventory": {
+    "target": "https://localhost:7252",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel":  "debug"
+  }
+}

@@ -1,0 +1,8 @@
+Description - Count
+Chair - 18
+Table - 3
+Clock - 5
+Cooler - 2
+Pen - 20
+Eraser - 4
+Scissor - 5
